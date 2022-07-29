@@ -1,0 +1,7 @@
+In 2020, I began learning new web development technologies. This was one of the things I did during COVID-19.  I learned many front-end and back-end technologies and built a full-stack website from the ground up using everything I learned. Front-end technologies included HTML, CSS, JavaScript, Jquery, and AngularJS, while back-end technologies included PHP, JSON, and Ajax. I also used MySQL as my database.
+
+Link to my website: https://petscareee.000webhostapp.com/
+
+Petscare connects the service provider and the customer. This is a Pets website where people who provide services and those who need services for their pets can register. It has a sign-up feature through which you can register yourself as a shelter provider, veterinary doctor, pet pharmacist, and if you require the above services, you can register as a citizen. You can search for the specific service you require for your pet on the client page. It will display all of the stored data from the service's database.
+
+I had a pet and got the idea for the website after facing such problems as the availability of veterinary doctors in various regions, etc.
